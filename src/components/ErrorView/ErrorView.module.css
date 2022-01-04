@@ -1,0 +1,18 @@
+.wrapper {
+  margin: 0 auto;
+  padding: 40px 0;
+  /* text-align: center; */
+}
+
+.img {
+  border-radius: 5px;
+  margin: 0 auto;
+}
+
+.text {
+  margin-top: 20px;
+  color: red;
+  font-weight: 500;
+  font-size: 24px;
+  text-align: center;
+}
